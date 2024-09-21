@@ -1,0 +1,1 @@
+echo "<?php echo 'Disfruta de un gran día'; ?>" > index.php
